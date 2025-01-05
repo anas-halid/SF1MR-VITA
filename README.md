@@ -24,11 +24,16 @@ I hope this would Inspire more potential Developers to start creating Homebrew f
 
 ![2025-01-06-005135](https://github.com/user-attachments/assets/cc1bc4d4-09af-4b2f-97bb-f0f294dd2ce5)
 
-#Credits
+<b>#Credits<b>
 
--Capcom - Developers of Street Fighter series
--Valkyrie Project - Creator of this game
--Falchion22 - Creator of characters
--Shadow Blade - Creator of screenpack
--Captain Dreamcast - Creator of the Dolmexica Infinite Mugen Interpreter and it's PS Vita Integration
--AnasHalideen - Porting the game to Vita.... lolz  
+Capcom - Developers of Street Fighter series
+<br>
+Valkyrie Project - Creator of this game
+<br>
+Falchion22 - Creator of characters
+<br>
+Shadow Blade - Creator of screenpack
+<br>
+Captain Dreamcast - Creator of the Dolmexica Infinite Mugen Interpreter and it's PS Vita Integration
+<br>
+AnasHalideen - Porting the game to Vita.... lolz  
