@@ -1,5 +1,5 @@
 # SF1MR-VITA
-A PS Vita Port of the Popular Mugen Remake of Street Fighter One using Dolmexica Infinite as the engine. 
+A PS Vita Port of the Popular Mugen Remake of Street Fighter One (SF1MR) using Dolmexica Infinite as the engine. 
 
 Street Fighter One M.U.G.E.N Remake.
 Another Mugen Street Fighter game. This time, it is a remake of original very first Street Fighter game, simply called Street Fighter 1, that is also known in home ports as Fighting Street. 
