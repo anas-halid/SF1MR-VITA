@@ -26,9 +26,9 @@ I hope this would Inspire more potential Developers to start creating Homebrew f
 
 #Credits
 
-Capcom - Developers of Street Fighter series
-Valkyrie Project - Creator of this game
-Falchion22 - Creator of characters
-Shadow Blade - Creator of screenpack
-Captain Dreamcast - Creator of the Dolmexica Infinite Mugen Interpreter and it's PS Vita Integration
-Anas Halideen - Porting the game to Vita.... lolz  
+-Capcom - Developers of Street Fighter series
+-Valkyrie Project - Creator of this game
+-Falchion22 - Creator of characters
+-Shadow Blade - Creator of screenpack
+-Captain Dreamcast - Creator of the Dolmexica Infinite Mugen Interpreter and it's PS Vita Integration
+-AnasHalideen - Porting the game to Vita.... lolz  
