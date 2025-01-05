@@ -4,7 +4,7 @@ A PS Vita Port of the Popular Mugen Remake of Street Fighter One (SF1MR) using D
 Street Fighter One M.U.G.E.N Remake.
 Another Mugen Street Fighter game. This time, it is a remake of original very first Street Fighter game, simply called Street Fighter 1, that is also known in home ports as Fighting Street. 
 
-Original Game link: https://gamebanana.com/mods/382658
+Original PC Game link: https://gamebanana.com/mods/382658
 
 After the Release of Dolmexica Infinite ver 1.6, It seemed like the Vita Build of the Mugen interpreter is alot more stable for publishing and making actual custom Fighting games on it.
 So to Start the Year 2025 for the Vita Homebrew Commmunity, And to celebrate the Miraculous Dolmexica Infinite that is still being worked on by the amazing Captain Dreamcast.
